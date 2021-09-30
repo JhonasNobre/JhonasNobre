@@ -8,10 +8,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Jhonas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhonas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jhonas-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular.svg">
+  <img align="center" alt="Jhonas-Angular" height="30" width="40" src="https://user-images.githubusercontent.com/47873590/135457607-de07c702-2acf-4c57-aa9a-abd1d6fea194.png">
   <img align="center" alt="Jhonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jhonas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jhonas-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vsCode/vsCode.svg">
   <img align="center" alt="Jhonas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
